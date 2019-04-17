@@ -1,0 +1,64 @@
+.middle_gap {
+	
+	height: 40px;
+}
+
+.small_gap {
+	height: 20px;
+}
+
+.container {
+	margin-top: 200px;
+/*	background-color: grey;
+	border-radius: 5px;
+	min-height: 450px;
+	margin-top: 200px;*/
+
+}
+.navbar-custom {
+    background-color: #9e6483 !important;
+    /*#9e6483*/ /*#b4747c*/
+}
+
+form {
+
+	color: white;
+}
+.container{
+	margin-top: 150px;
+}
+body {
+
+	background-image: url(../public/back.jpg);
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+
+}
+
+.jumbotron {
+	  background-color: rgba(102, 38, 60, 0.5);
+	  min-height: 80vh;
+	  margin-top: 20px;
+	  margin-left: 40px;
+	  margin-right: 40px;
+	  color: white;
+	}
+
+.wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.wrapper img {
+	height: 200px;
+}
+.card-body {
+	height: 50%;
+}
+
+.error {
+	position: relative;
+	bottom: 650px;
+}
